@@ -10,7 +10,7 @@ namespace SanzPansAntonioProyectoXamarin
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Index();
         }
 
         protected override void OnStart()

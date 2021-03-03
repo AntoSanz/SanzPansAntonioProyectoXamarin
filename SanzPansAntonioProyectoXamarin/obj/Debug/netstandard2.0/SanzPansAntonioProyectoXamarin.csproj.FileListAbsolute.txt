@@ -1,0 +1,17 @@
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.csprojAssemblyReference.cache
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/Index.xaml.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/Styles/IndexStyle.css.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/Styles/Style.css.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.AssemblyInfoInputs.cache
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.AssemblyInfo.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.csproj.CoreCompileInputs.cache
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/bin/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.deps.json
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/bin/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.dll
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/bin/Debug/netstandard2.0/ref/SanzPansAntonioProyectoXamarin.dll
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/bin/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.pdb
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.dll
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/ref/SanzPansAntonioProyectoXamarin.dll
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.pdb

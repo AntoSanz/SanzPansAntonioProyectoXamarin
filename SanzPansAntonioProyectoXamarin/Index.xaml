@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SanzPansAntonioProyectoXamarin.Index" Scale="1">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="Styles/Style.css"></StyleSheet>
+        <StyleSheet Source="Styles/IndexStyle.css"></StyleSheet>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout x:Name="indexbody" Orientation="Vertical" Padding="10, 50">
+                <Image Source="Images/phasmophobia-logo.png"/>
+                <Label Text="INDEX" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

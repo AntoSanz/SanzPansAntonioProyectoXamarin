@@ -1,6 +1,33 @@
-﻿<Properties StartupConfiguration="{84194CDD-58E1-4168-A4ED-DDFFE8768E44}|Default">
-  <MonoDevelop.Ide.ItemProperties.SanzPansAntonioProyectoXamarin.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SanzPansAntonioProyectoXamarin FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SanzPansAntonioProyectoXamarin.iOS FirstBuild="True" />
+﻿<Properties StartupConfiguration="{987ED921-4BD7-4B90-8BC4-406F41942FC1}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.ItemProperties.SanzPansAntonioProyectoXamarin.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Pixel_3a_API_26" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SanzPansAntonioProyectoXamarin/Index.xaml">
+    <Files>
+      <File FileName="SanzPansAntonioProyectoXamarin/Styles/Style.css" Line="2" Column="2" />
+      <File FileName="SanzPansAntonioProyectoXamarin/Index.xaml" Line="2" Column="169" />
+      <File FileName="SanzPansAntonioProyectoXamarin/Styles/IndexStyle.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SanzPansAntonioProyectoXamarin" expanded="True">
+            <Node name="SanzPansAntonioProyectoXamarin" expanded="True">
+              <Node name="Styles" expanded="True" />
+              <Node name="Index.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="SanzPansAntonioProyectoXamarin.Android" expanded="True" />
+            <Node name="SanzPansAntonioProyectoXamarin.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SanzPansAntonioProyectoXamarin.iOS Xamarin.HotReload.DebuggerTimeoutException.SanzPansAntonioProyectoXamarin.iOS.HideInfoBar="True" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B92B89CF-C796-45F1-9162-CC9FB4786772" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

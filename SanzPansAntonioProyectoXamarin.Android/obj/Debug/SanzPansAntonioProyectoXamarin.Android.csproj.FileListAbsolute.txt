@@ -490,3 +490,4 @@
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.Android/obj/Debug/res/drawable/phasmologo.png

@@ -136,11 +136,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\Images\" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\Images\phasmophobia-logo.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
+    <BundleResource Include="Resources\phasmologo.png" />
   </ItemGroup>
 </Project>

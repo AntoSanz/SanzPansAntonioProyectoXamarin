@@ -56,4 +56,4 @@
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.iOS/obj/iPhoneSimulator/Debug/SanzPansAntonioProyectoXamarin.iOS.csproj.CopyComplete
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.iOS/obj/iPhoneSimulator/Debug/SanzPansAntonioProyectoXamarin.iOS.exe
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.iOS/obj/iPhoneSimulator/Debug/SanzPansAntonioProyectoXamarin.iOS.pdb
-/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.4/optimized/Images/phasmophobia-logo.png
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.4/optimized/phasmologo.png

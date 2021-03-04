@@ -1,22 +1,20 @@
 ﻿<Properties StartupConfiguration="{987ED921-4BD7-4B90-8BC4-406F41942FC1}|Default" HasHotReloadOverlayBeenDismissed="True">
   <MonoDevelop.Ide.ItemProperties.SanzPansAntonioProyectoXamarin.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Pixel_3a_API_26" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SanzPansAntonioProyectoXamarin/Index.xaml">
-    <Files>
-      <File FileName="SanzPansAntonioProyectoXamarin/Styles/Style.css" Line="2" Column="2" />
-      <File FileName="SanzPansAntonioProyectoXamarin/Index.xaml" Line="2" Column="169" />
-      <File FileName="SanzPansAntonioProyectoXamarin/Styles/IndexStyle.css" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SanzPansAntonioProyectoXamarin" expanded="True">
             <Node name="SanzPansAntonioProyectoXamarin" expanded="True">
-              <Node name="Styles" expanded="True" />
-              <Node name="Index.xaml" expanded="True" selected="True" />
+              <Node name="Styles" expanded="True">
+                <Node name="Style.css" selected="True" />
+              </Node>
+              <Node name="Index.xaml" expanded="True" />
             </Node>
-            <Node name="SanzPansAntonioProyectoXamarin.Android" expanded="True" />
-            <Node name="SanzPansAntonioProyectoXamarin.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
+            <Node name="SanzPansAntonioProyectoXamarin.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

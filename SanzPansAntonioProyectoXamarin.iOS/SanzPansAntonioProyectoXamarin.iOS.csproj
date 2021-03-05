@@ -137,5 +137,16 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\phasmologo.png" />
+    <BundleResource Include="Resources\Icons\png\add.png" />
+    <BundleResource Include="Resources\Icons\png\substract.png" />
+    <BundleResource Include="Resources\Icons\png\substract-1.png" />
+    <BundleResource Include="Resources\Icons\png\add-1.png" />
+    <BundleResource Include="Resources\Icons\png\next.png" />
+    <BundleResource Include="Resources\Icons\png\add-2.png" />
+    <BundleResource Include="Resources\Icons\png\add-3.png" />
+    <BundleResource Include="Resources\Icons\png\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Icons\" />
   </ItemGroup>
 </Project>

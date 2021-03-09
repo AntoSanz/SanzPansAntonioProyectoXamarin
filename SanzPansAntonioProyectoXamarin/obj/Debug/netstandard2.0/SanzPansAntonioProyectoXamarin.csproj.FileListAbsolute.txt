@@ -16,3 +16,6 @@
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/ref/SanzPansAntonioProyectoXamarin.dll
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/SanzPansAntonioProyectoXamarin.pdb
 /Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/GhostEvidencePage.xaml.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/GhostWikiCardsPage.xaml.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/WikiPage.xaml.g.cs
+/Users/mananas/Projects/SanzPansAntonioProyectoXamarin/SanzPansAntonioProyectoXamarin/obj/Debug/netstandard2.0/Styles/CardsStyle.css.g.cs

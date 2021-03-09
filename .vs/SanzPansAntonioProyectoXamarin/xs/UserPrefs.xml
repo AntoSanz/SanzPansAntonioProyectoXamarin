@@ -1,25 +1,27 @@
 ﻿<Properties StartupConfiguration="{987ED921-4BD7-4B90-8BC4-406F41942FC1}|Default" HasHotReloadOverlayBeenDismissed="True">
   <MonoDevelop.Ide.ItemProperties.SanzPansAntonioProyectoXamarin.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Pixel_3a_API_26" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SanzPansAntonioProyectoXamarin/GhostEvidencePage.xaml">
-    <Files>
-      <File FileName="SanzPansAntonioProyectoXamarin/Index.xaml" Line="1" Column="1" />
-      <File FileName="SanzPansAntonioProyectoXamarin/GhostEvidencePage.xaml" Line="6" Column="1" />
-      <File FileName="SanzPansAntonioProyectoXamarin/GhostEvidencePage.xaml.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SanzPansAntonioProyectoXamarin" expanded="True">
             <Node name="SanzPansAntonioProyectoXamarin" expanded="True">
-              <Node name="GhostEvidencePage.xaml" expanded="True" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Styles" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="GhostEvidencePage.xaml" expanded="True" />
+              <Node name="GhostWikiCardsPage.xaml" expanded="True" selected="True" />
             </Node>
-            <Node name="SanzPansAntonioProyectoXamarin.Android" expanded="True">
+            <Node name="SanzPansAntonioProyectoXamarin.iOS" expanded="True">
               <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
+                <Node name="Icons" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

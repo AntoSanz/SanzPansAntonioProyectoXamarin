@@ -10,7 +10,7 @@ namespace SanzPansAntonioProyectoXamarin
         {
             InitializeComponent();
 
-            MainPage = new Index();
+            MainPage = new GhostWikiCardsPage();
         }
 
         protected override void OnStart()
